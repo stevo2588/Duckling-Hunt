@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: c62795a381c0c434180735f1532559d4
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: lakestone_pCube16
+    100002: lakestone_pCube17
+    100004: lakestone_pCube18
+    100006: lakestone_pCube19
+    100008: lakestone_pCube20
+    100010: lakestone_pCube21
+    100012: lakestone_pCube22
+    100014: lakestone_pCube23
+    100016: lakestone_pCube24
+    100018: lakestone_pCube25
+    100020: lakestone_pCube26
+    100022: //RootNode
+    100024: pCube27
+    100026: pCube29
+    100028: pCube30
+    100030: pCube31
+    100032: pCube32
+    100034: pCube33
+    100036: polySurface45
+    100038: rock3:pCube1
+    100040: transform58
+    100042: transform59
+    100044: transform60
+    100046: transform61
+    100048: transform62
+    100050: transform63
+    100052: transform64
+    100054: transform65
+    100056: transform66
+    100058: transform67
+    100060: transform68
+    100062: transform69
+    100064: transform70
+    100066: transform71
+    100068: transform72
+    100070: transform73
+    100072: transform74
+    100074: transform75
+    400000: lakestone_pCube16
+    400002: lakestone_pCube17
+    400004: lakestone_pCube18
+    400006: lakestone_pCube19
+    400008: lakestone_pCube20
+    400010: lakestone_pCube21
+    400012: lakestone_pCube22
+    400014: lakestone_pCube23
+    400016: lakestone_pCube24
+    400018: lakestone_pCube25
+    400020: lakestone_pCube26
+    400022: //RootNode
+    400024: pCube27
+    400026: pCube29
+    400028: pCube30
+    400030: pCube31
+    400032: pCube32
+    400034: pCube33
+    400036: polySurface45
+    400038: rock3:pCube1
+    400040: transform58
+    400042: transform59
+    400044: transform60
+    400046: transform61
+    400048: transform62
+    400050: transform63
+    400052: transform64
+    400054: transform65
+    400056: transform66
+    400058: transform67
+    400060: transform68
+    400062: transform69
+    400064: transform70
+    400066: transform71
+    400068: transform72
+    400070: transform73
+    400072: transform74
+    400074: transform75
+    2300000: polySurface45
+    3300000: polySurface45
+    4300000: polySurface45
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
