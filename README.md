@@ -5,4 +5,5 @@ Duckling Hunt is a 4 player game designed to be played with 4 gamepads. 2 player
 ![alt tag](http://creativelogic.me/assets/images/projects/4.jpg)
 
 Developers: Stephen Aldriedge, Kourtney Kebodeaux
+
 Artists: Yolanda Cheng, Jay Jackson
